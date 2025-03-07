@@ -1,1 +1,132 @@
-function _0x24a2(_0x512618,_0x2708e5){const _0x14bc8b=_0x14bc();return _0x24a2=function(_0x24a2e9,_0x520bb1){_0x24a2e9=_0x24a2e9-0x197;let _0x24a2d1=_0x14bc8b[_0x24a2e9];return _0x24a2d1;},_0x24a2(_0x512618,_0x2708e5);}const _0x108004=_0x24a2;(function(_0x3731d3,_0x9f35a3){const _0x1b91b9=_0x24a2,_0x585b95=_0x3731d3();while(!![]){try{const _0x16c26c=-parseInt(_0x1b91b9(0x1b6))/0x1*(-parseInt(_0x1b91b9(0x1d7))/0x2)+parseInt(_0x1b91b9(0x1dd))/0x3*(parseInt(_0x1b91b9(0x1a4))/0x4)+-parseInt(_0x1b91b9(0x1b7))/0x5+parseInt(_0x1b91b9(0x1eb))/0x6*(-parseInt(_0x1b91b9(0x1e0))/0x7)+parseInt(_0x1b91b9(0x1ea))/0x8+-parseInt(_0x1b91b9(0x1b0))/0x9+parseInt(_0x1b91b9(0x1e5))/0xa*(parseInt(_0x1b91b9(0x1a7))/0xb);if(_0x16c26c===_0x9f35a3)break;else _0x585b95['push'](_0x585b95['shift']());}catch(_0x692312){_0x585b95['push'](_0x585b95['shift']());}}}(_0x14bc,0x42704));function hi(){const _0x530c0d=_0x24a2;console['log'](_0x530c0d(0x1b3));}function _0x14bc(){const _0x577d9c=['&text3=Member%20','các\x20bạn','userFbId','config','getThreadInfo','.jpg','1.7','createWriteStream','you\x20guys','entries','exports','adminIDs','MMMM\x20Do\x20YYYY,\x20h:mm:ss\x20a','session1','session3','format','send','length','getCurrentUserID','attachment','afternoon','noon','you','evening','dataAddedParticipants','sendWelcomeMessage','session2','filter','cache','647642qZSwEB','data','logMessageType','tối','Aminulsordar','multiple1','402PTWMyc','push','temp','3143hrLTRg','welcomeEvent','Cảm\x20ơn\x20bạn\x20đã\x20mời\x20tôi\x20vào\x20nhóm!\x0aPrefix\x20bot:\x20%1\x0aĐể\x20xem\x20danh\x20sách\x20lệnh\x20hãy\x20nhập:\x20%1help','resolve','settings','10nJwGKB','welcomeMessage','trưa','replace','chiều','2069152mlBDug','5394wrAKWs','utils','sáng','error','fullName','changeNickname','addedParticipants','participantIDs','mkdirSync','&avatar=','events','pipe','moment-timezone','some','&text2=Welcome%20To%20','path','10796nKGjcX','threadName','welcome','1137653DbBnme','GoatBot','╭━─━─≪𝐖𝐄𝐋𝐂𝐎𝐌𝐄≫─━─━❯❯\x0a│\x0a├─❯【•𝐁𝐎𝐓-𝐎𝐖𝐍𝐄𝐑:\x20𝐄𝐅𝐀𝐓\x20𝐀𝐇𝐌𝐄𝐃】\x0a│\x0a├─❯【𝐍𝐄𝐙𝐔𝐊𝐎-𝐗-𝐁𝐁𝐘】\x0a│\x0a├─❯【•𝐁𝐎𝐓-𝐏𝐑𝐄𝐅𝐈𝐗:【!】\x0a│\x0a├─❯\x20【•𝐓𝐘𝐏𝐄:\x20\x20!help\x20𝐔𝐒𝐄\x20𝐂𝐌𝐃•】\x0a│\x0a├─❯【•𝐎𝐖𝐍𝐄𝐑+𝐀𝐃𝐌𝐈𝐍】\x0a\x0a├─❯https://www.facebook.com/Efat27.bby.bot\x0a│\x0a├─❯https://m.me/Efat27.bby.bot\x0a│\x0a╰━─━─≪𝐍𝐄𝐙𝐔𝐊𝐎-𝐗-𝐁𝐁𝐘≫─━─━❯❯','Asia/Dhaka','getAvatarUrl','close','logMessageData','Hello\x20{userName}.\x0aWelcome\x20{multiple}\x20to\x20the\x20chat\x20group:\x20{boxName}.\x0aHave\x20a\x20nice\x20{session}\x20😊\x0aCurrent\x20date\x20and\x20time:\x20{dateTime}.\x0aYou\x20are\x20the\x20{position}\x20member\x20in\x20this\x20group.\x0aTotal\x20members:\x20{membersCount}.\x0aTotal\x20admins:\x20{adminsCount}.','getPrefix','2795274bJMBUd','session4','existsSync','Hello\x20World!','https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBN8u9V8pMqRI8xEyg6xpsIOzhXHdUIDvdQw&usqp=CAU','joinTimeout','1hlXwpi','305925PuFSTj','https://api.popcat.xyz/welcomecard?background=','banned_ban'];_0x14bc=function(){return _0x577d9c;};return _0x14bc();}hi();const {getTime}=global[_0x108004(0x1ec)],moment=require(_0x108004(0x1a0)),fs=require('fs'),path=require(_0x108004(0x1a3)),request=require('request');if(!global[_0x108004(0x1df)][_0x108004(0x1e1)])global[_0x108004(0x1df)][_0x108004(0x1e1)]={};module[_0x108004(0x1c4)]={'config':{'name':_0x108004(0x1a6),'version':_0x108004(0x1c0),'author':_0x108004(0x1db),'category':_0x108004(0x19e)},'langs':{'vi':{'session1':_0x108004(0x1ed),'session2':_0x108004(0x1e7),'session3':_0x108004(0x1e9),'session4':_0x108004(0x1da),'welcomeMessage':_0x108004(0x1e2),'multiple1':'bạn','multiple2':_0x108004(0x1bb),'defaultWelcomeMessage':'Xin\x20chào\x20{userName}.\x0aChào\x20mừng\x20bạn\x20đến\x20với\x20{boxName}.\x0aChúc\x20bạn\x20có\x20buổi\x20{session}\x20vui\x20vẻ!\x0aCurrent\x20date\x20and\x20time\x20in\x20Manila:\x20{dateTime}\x0aBạn\x20là\x20thành\x20viên\x20thứ\x20{position}\x20của\x20nhóm\x20này.\x0aTổng\x20số\x20thành\x20viên:\x20{membersCount}\x0aTổng\x20số\x20quản\x20trị\x20viên:\x20{adminsCount}'},'en':{'session1':'morning','session2':_0x108004(0x1cf),'session3':_0x108004(0x1ce),'session4':_0x108004(0x1d1),'welcomeMessage':_0x108004(0x1a9),'multiple1':_0x108004(0x1d0),'multiple2':_0x108004(0x1c2),'defaultWelcomeMessage':_0x108004(0x1ae)}},'onStart':async({threadsData:_0x555721,message:_0x19e0ba,event:_0x29014c,api:_0x1d10ca,getLang:_0x4c29c8,usersData:_0x2901b2})=>{const _0x142c3b=_0x108004;if(_0x29014c[_0x142c3b(0x1d9)]!=='log:subscribe')return;const {threadID:_0x228558}=_0x29014c,{nickNameBot:_0x3175e7}=global[_0x142c3b(0x1a8)][_0x142c3b(0x1bd)],_0x1096c4=global[_0x142c3b(0x1ec)][_0x142c3b(0x1af)](_0x228558),_0x1185a5=_0x29014c[_0x142c3b(0x1ad)][_0x142c3b(0x19a)];if(_0x1185a5[_0x142c3b(0x1a1)](_0x2c6734=>_0x2c6734[_0x142c3b(0x1bc)]===_0x1d10ca[_0x142c3b(0x1cc)]()))return _0x3175e7&&_0x1d10ca[_0x142c3b(0x199)](_0x3175e7,_0x228558,_0x1d10ca[_0x142c3b(0x1cc)]()),_0x19e0ba[_0x142c3b(0x1ca)](_0x4c29c8(_0x142c3b(0x1e6),_0x1096c4));!global[_0x142c3b(0x1df)]['welcomeEvent'][_0x228558]&&(global['temp'][_0x142c3b(0x1e1)][_0x228558]={'joinTimeout':null,'dataAddedParticipants':[]}),global[_0x142c3b(0x1df)][_0x142c3b(0x1e1)][_0x228558][_0x142c3b(0x1d2)][_0x142c3b(0x1de)](..._0x1185a5),clearTimeout(global[_0x142c3b(0x1df)][_0x142c3b(0x1e1)][_0x228558][_0x142c3b(0x1b5)]),global['temp'][_0x142c3b(0x1e1)][_0x228558][_0x142c3b(0x1b5)]=setTimeout(async()=>{const _0x3d722a=_0x142c3b,_0xdeb11b=await _0x555721['get'](_0x228558);if(_0xdeb11b[_0x3d722a(0x1e4)][_0x3d722a(0x1d3)]===![])return;const _0x4db04a=global[_0x3d722a(0x1df)][_0x3d722a(0x1e1)][_0x228558][_0x3d722a(0x1d2)],_0x47c816=_0xdeb11b['data'][_0x3d722a(0x1b9)]||[],_0x3233d8=_0xdeb11b[_0x3d722a(0x1a5)],_0x2ac654=await _0x1d10ca[_0x3d722a(0x1be)](_0x228558),_0x4b1905=_0x4db04a[_0x3d722a(0x1d5)](_0xf2faf0=>!_0x47c816[_0x3d722a(0x1a1)](_0x4d4d01=>_0x4d4d01['id']===_0xf2faf0[_0x3d722a(0x1bc)]));if(_0x4b1905[_0x3d722a(0x1cb)]===0x0)return;const _0x5f3bc1=path[_0x3d722a(0x1e3)](__dirname,_0x3d722a(0x1d6));!fs[_0x3d722a(0x1b2)](_0x5f3bc1)&&fs[_0x3d722a(0x19c)](_0x5f3bc1);const _0x45c17e=_0x3d722a(0x1b4),_0x24c853=()=>{const _0x79cdfd=_0x3d722a,_0x98700=getTime('HH');return _0x98700<=0xa?_0x4c29c8(_0x79cdfd(0x1c7)):_0x98700<=0xc?_0x4c29c8(_0x79cdfd(0x1d4)):_0x98700<=0x12?_0x4c29c8(_0x79cdfd(0x1c8)):_0x4c29c8(_0x79cdfd(0x1b1));},_0xe8ed9d=_0xb3ecc5=>{const _0x1dd526=_0xb3ecc5%0xa,_0x335cfb=_0xb3ecc5%0x64;if(_0x1dd526==0x1&&_0x335cfb!=0xb)return _0xb3ecc5+'st';if(_0x1dd526==0x2&&_0x335cfb!=0xc)return _0xb3ecc5+'nd';if(_0x1dd526==0x3&&_0x335cfb!=0xd)return _0xb3ecc5+'rd';return _0xb3ecc5+'th';},_0x3b03cb=async(_0x29e76a,_0x10e062)=>{const _0x48c49d=_0x3d722a,_0xc0731c=_0x29e76a[_0x48c49d(0x198)],_0x15c7da=_0x29e76a[_0x48c49d(0x1bc)],_0x34d7b2=moment()['tz'](_0x48c49d(0x1aa))[_0x48c49d(0x1c9)](_0x48c49d(0x1c6)),_0x39e112=_0x2ac654['participantIDs'][_0x48c49d(0x1cb)],_0x234ba3=_0x2ac654[_0x48c49d(0x1c5)][_0x48c49d(0x1cb)];let _0x54fc32=_0xdeb11b[_0x48c49d(0x1d8)][_0x48c49d(0x1e6)]||_0x4c29c8('defaultWelcomeMessage');_0x54fc32=_0x54fc32[_0x48c49d(0x1e8)](/\{userName\}|\{userNameTag\}/g,_0xc0731c)[_0x48c49d(0x1e8)](/\{boxName\}|\{threadName\}/g,_0x3233d8)[_0x48c49d(0x1e8)](/\{multiple\}/g,_0x4c29c8(_0x48c49d(0x1dc)))[_0x48c49d(0x1e8)](/\{session\}/g,_0x24c853())[_0x48c49d(0x1e8)](/\{dateTime\}/g,_0x34d7b2)[_0x48c49d(0x1e8)](/\{membersCount\}/g,_0x39e112)['replace'](/\{adminsCount\}/g,_0x234ba3)['replace'](/\{position\}/g,_0xe8ed9d(_0x10e062));const _0x282a35={'body':_0x54fc32,'mentions':[{'tag':_0xc0731c,'id':_0x15c7da}]},_0xf21676=await _0x2901b2[_0x48c49d(0x1ab)](_0x15c7da),_0x237af7=_0x48c49d(0x1b8)+encodeURIComponent(_0x45c17e)+'&text1='+encodeURIComponent(_0xc0731c)+_0x48c49d(0x1a2)+encodeURIComponent(_0x3233d8)+_0x48c49d(0x1ba)+encodeURIComponent(_0x10e062)+_0x48c49d(0x19d)+encodeURIComponent(_0xf21676),_0x28fa39=path[_0x48c49d(0x1e3)](_0x5f3bc1,_0x15c7da+_0x48c49d(0x1bf));request(_0x237af7)[_0x48c49d(0x19f)](fs[_0x48c49d(0x1c1)](_0x28fa39))['on'](_0x48c49d(0x1ac),()=>{const _0x3343ec=_0x48c49d;_0x282a35[_0x3343ec(0x1cd)]=[fs['createReadStream'](_0x28fa39)],_0x19e0ba[_0x3343ec(0x1ca)](_0x282a35);})['on'](_0x48c49d(0x197),_0x59859d=>console['error'](_0x59859d));};for(const [_0x21dfd0,_0x12d3ef]of _0x4b1905[_0x3d722a(0x1c3)]()){await _0x3b03cb(_0x12d3ef,_0x2ac654[_0x3d722a(0x19b)][_0x3d722a(0x1cb)]-_0x4b1905[_0x3d722a(0x1cb)]+_0x21dfd0+0x1);}delete global[_0x3d722a(0x1df)]['welcomeEvent'][_0x228558];},0x5dc);}};
+const { getTime, drive } = global.utils;
+if (!global.temp.welcomeEvent)
+	global.temp.welcomeEvent = {};
+
+module.exports = {
+	config: {
+		name: "welcome",
+		version: "1.7",
+		author: "NTKhang",
+		category: "events"
+	},
+
+	langs: {
+		vi: {
+			session1: "sáng",
+			session2: "trưa",
+			session3: "chiều",
+			session4: "tối",
+			welcomeMessage: "Cảm ơn bạn đã mời tôi vào nhóm!\nPrefix bot: %1\nĐể xem danh sách lệnh hãy nhập: %1help",
+			multiple1: "bạn",
+			multiple2: "các bạn",
+			defaultWelcomeMessage: "Xin chào {userName}.\nChào mừng bạn đến với {boxName}.\nChúc bạn có buổi {session} vui vẻ!"
+		},
+		en: {
+			session1: "𝗺𝗼𝗿𝗻𝗶𝗻𝗴",
+			session2: "𝗻𝗼𝗼𝗻",
+			session3: "𝗮𝗳𝘁𝗲𝗿𝗻𝗼𝗼𝗻",
+			session4: "𝗲𝘃𝗲𝗻𝗶𝗻𝗴",
+			welcomeMessage: "😘 𝗔𝘀𝘀𝗮𝗹𝗮𝗺𝘂 𝗮𝗹𝗮𝗶𝗸𝘂𝗺 😘\n\n 𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝗳𝗼𝗿 𝗶𝗻𝘃𝗶𝘁𝗶𝗻𝗴 𝗺𝗲 𝘁𝗼 𝘁𝗵𝗲 𝗴𝗿𝗼𝘂𝗽!\n 𝗕𝗼𝘁 𝗽𝗿𝗲𝗳𝗶𝘅: %1\n𝗧𝗼 𝘃𝗶𝗲𝘄 𝘁𝗵𝗲 𝗹𝗶𝘀𝘁 𝗼𝗳 𝗰𝗼𝗺𝗺𝗮𝗻𝗱𝘀, 𝗽𝗹𝗲𝗮𝗰𝗲 𝗲𝗻𝘁𝗲𝗿: %1𝗵𝗲𝗹𝗽\n\n♻ 𝗜 𝗵𝗼𝗽𝗲 𝘆𝗼𝘂 𝘄𝗶𝗹𝗹 𝗳𝗼𝗹𝗹𝗼𝘄 𝗼𝘂𝗿 𝗮𝗹𝗹 𝗴𝗿𝗼𝘂𝗽 𝗿𝘂𝗹𝗲𝘀 ♻",
+			multiple1: "𝘆𝗼𝘂",
+			multiple2: "𝘆𝗼𝘂 𝗴𝘂𝘆𝘀",
+			defaultWelcomeMessage: `🍒𝗔𝘀𝘀𝗮𝗹𝗮𝗺𝘂 𝗮𝗹𝗮𝗶𝗸𝘂𝗺🍒\n\n 𝗛𝗲𝗹𝗹𝗼 {userName}.\n𝗪𝗲𝗹𝗰𝗼𝗺𝗲 {multiple} 𝗧𝗼 𝘁𝗵𝗲 𝗰𝗮𝘁 𝗴𝗿𝗼𝘂𝗽: {boxName}\n 𝗛𝗮𝘃𝗲 𝗮 𝗻𝗶𝗰𝗲 {session} \n\n♻ 𝗜 𝗵𝗼𝗽𝗲 𝘆𝗼𝘂 𝘄𝗶𝗹𝗹 𝗳𝗼𝗹𝗹𝗼𝘄 𝗼𝘂𝗿 𝗮𝗹𝗹 𝗴𝗿𝗼𝘂𝗽 𝗿𝘂𝗹𝗲𝘀 ♻\n\n🐔🌬 𝗔𝗽𝗻𝗮𝗸𝗲 𝗮𝗺𝗮𝗱𝗲𝗿 𝗮𝗶 𝗴𝗿𝗼𝘂𝗽𝗲 𝗮𝘀𝗮𝗿 𝗷𝗼𝗻𝗻𝗼 𝗮𝗻𝗲𝗸 𝗼𝗻𝗲𝗸 𝘀𝘂𝗯𝗲𝗰𝗰𝗵𝗮 😘😊`
+		}
+	},
+
+	onStart: async ({ threadsData, message, event, api, getLang }) => {
+		if (event.logMessageType == "log:subscribe")
+			return async function () {
+				const hours = getTime("HH");
+				const { threadID } = event;
+				const { nickNameBot } = global.GoatBot.config;
+				const prefix = global.utils.getPrefix(threadID);
+				const dataAddedParticipants = event.logMessageData.addedParticipants;
+				// if new member is bot
+				if (dataAddedParticipants.some((item) => item.userFbId == api.getCurrentUserID())) {
+					if (nickNameBot)
+						api.changeNickname(nickNameBot, threadID, api.getCurrentUserID());
+					return message.send(getLang("welcomeMessage", prefix));
+				}
+				// if new member:
+				if (!global.temp.welcomeEvent[threadID])
+					global.temp.welcomeEvent[threadID] = {
+						joinTimeout: null,
+						dataAddedParticipants: []
+					};
+
+				// push new member to array
+				global.temp.welcomeEvent[threadID].dataAddedParticipants.push(...dataAddedParticipants);
+				// if timeout is set, clear it
+				clearTimeout(global.temp.welcomeEvent[threadID].joinTimeout);
+
+				// set new timeout
+				global.temp.welcomeEvent[threadID].joinTimeout = setTimeout(async function () {
+					const threadData = await threadsData.get(threadID);
+					if (threadData.settings.sendWelcomeMessage == false)
+						return;
+					const dataAddedParticipants = global.temp.welcomeEvent[threadID].dataAddedParticipants;
+					const dataBanned = threadData.data.banned_ban || [];
+					const threadName = threadData.threadName;
+					const userName = [],
+						mentions = [];
+					let multiple = false;
+
+					if (dataAddedParticipants.length > 1)
+						multiple = true;
+
+					for (const user of dataAddedParticipants) {
+						if (dataBanned.some((item) => item.id == user.userFbId))
+							continue;
+						userName.push(user.fullName);
+						mentions.push({
+							tag: user.fullName,
+							id: user.userFbId
+						});
+					}
+					// {userName}:   name of new member
+					// {multiple}:
+					// {boxName}:    name of group
+					// {threadName}: name of group
+					// {session}:    session of day
+					if (userName.length == 0) return;
+					let { welcomeMessage = getLang("defaultWelcomeMessage") } =
+						threadData.data;
+					const form = {
+						mentions: welcomeMessage.match(/\{userNameTag\}/g) ? mentions : null
+					};
+					welcomeMessage = welcomeMessage
+						.replace(/\{userName\}|\{userNameTag\}/g, userName.join(", "))
+						.replace(/\{boxName\}|\{threadName\}/g, threadName)
+						.replace(
+							/\{multiple\}/g,
+							multiple ? getLang("multiple2") : getLang("multiple1")
+						)
+						.replace(
+							/\{session\}/g,
+							hours <= 10
+								? getLang("session1")
+								: hours <= 12
+									? getLang("session2")
+									: hours <= 18
+										? getLang("session3")
+										: getLang("session4")
+						);
+
+					form.body = welcomeMessage;
+
+					if (threadData.data.welcomeAttachment) {
+						const files = threadData.data.welcomeAttachment;
+						const attachments = files.reduce((acc, file) => {
+							acc.push(drive.getFile(file, "stream"));
+							return acc;
+						}, []);
+						form.attachment = (await Promise.allSettled(attachments))
+							.filter(({ status }) => status == "fulfilled")
+							.map(({ value }) => value);
+					}
+					message.send(form);
+					delete global.temp.welcomeEvent[threadID];
+				}, 1500);
+			};
+	}
+};
